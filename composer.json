@@ -1,0 +1,13 @@
+{
+    "name": "collectify",
+    "licence" : "INSAT",
+    "type" : "formation",
+    "description" :  "A tool to manage collection",
+    "autoload" : {
+        "psr-0" : {"":"src/"}
+    },
+    "require" : {
+           "gabordemooij/redbean": "v3.5.1"
+    }
+
+}
